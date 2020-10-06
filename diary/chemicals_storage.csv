@@ -1,6 +1,6 @@
 Name,ID,Tare,Balance,Location,Note
 DMEM,gibco 11995-065,Native bottle,~0.1 l,"+4 (114l, bottle, r. left)",
-Trypsin-EDTA,Sigma T4049,"Falcon 50 ml, falcon 15 ml","4x45 ml & 3x10 ml, 5x45 ml","-10 (114l), -20 (410a, TCR box)",Alq. 06.2020
+Trypsin-EDTA,Sigma T4049,"Falcon 50 ml, falcon 15 ml","4x45 ml & 2x10 ml, 5x45 ml","-10 (114l), -20 (410a, TCR box)",Alq. 06.2020
 FBS,Sigma S0615,"Falcon 50 ml, tube 5 ml",4x5 ml & 2x40 ml,-10 (114l),
 Gentamicin 10 mg/ml,gibco 15710-049,Native bottle,~40 ml,+4 (114r),
 Lipofectamine 3000,invitrogen L3000-001,Native tubes,~0.5 ml L3000 & ~0.5 ml P3000,"+4 (114l, door)",
@@ -10,4 +10,4 @@ AM NP-EGTA,Mol. Prob. N-6803,Epp. 0.2 ml,2x2 ul (5 mM in DMSO),"-10 (404, Ca2+ s
 AM Fluo-4,Mol. Prob. F-14201,Epp. 0.5 ml,1x2 ul (5 mM in DMSO),"-10 (404, Ca2+ stuff aliquot box)","Diss. 23.07.2020 , freeze 27.07.2020"
 AM Fura Red,Invitrogen F3021,Epp. 0.5 ml,4x2 ul (5 mM in DMSO),"-10 (404, Ca2+ stuff aliquot box)","Diss. 27.07.2020 , freeze 27.07.2020"
 ,,,,,
-Update 2.10.2020,,,,,
+Update 6.10.2020,,,,,

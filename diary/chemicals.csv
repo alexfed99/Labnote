@@ -1,13 +1,13 @@
 Name,ID,Prepared,Tare,Balance,Location,Note
 DMEM-,Gibco 11995-065,21.09,Falcon 50 ml,45 ml,"114l, r. left",intact after prep.
 DMEM-,Gibco 11995-065,20.08,Falcon 15 ml,8 ml,"114l, r. left",I.W. 3.09
-DMEM+,-,1..10,Falcon 15 ml,4x10 ml,"114l, r. center",intact after prep.
+DMEM+,-,1..10,Falcon 15 ml,3x10 ml,"114l, r. center",intact after prep.
 DMEM+,-,-,Falcon 15 ml,-,-,-
-CryoDMEM,-,16.07,Tube 5 ml,2 ml,"114l, -10",
-Trypsin-EDTA,Sigma T4049,u.f. 29.09,Falcon 15 ml,6 ml,"114l, r. right",
+CryoDMEM,-,16.07,Tube 5 ml,1 ml,"114l, -10",Refreezed 2 times
+Trypsin-EDTA,Sigma T4049,u.f. 29.09,Falcon 15 ml,10 ml,"114l, r. right",
 FBS,Sigma S0615,u.f. 29.09,Tube 5 ml,5 ml,"114l, box",
 Gentamicin,gibco 15710-049,22.06,Tube 2x5 ml,4.5 ml & ~80 ul,"114l, box",
 AM NP-EGTA,Mol. Prob. N-6803,-,-,-,"114l, Ca stuff box",
 AM Fluo-4,Mol. Prob. F-14201,u.f. 21.09,Epp. 0.5 ml,1 ul,"114l, Ca stuff box","5 mM in DMSO, diss. 23.07.2020 , freeze 27.07.2020"
 ,,,,,,
-Update 2.10.2020,,,,,,
+Update 6.10.2020,,,,,,
