@@ -16,7 +16,7 @@
 
 ### Solution preparing
 
-#####     *Trypsin 0,25% (Sigma T4799) to PBS*
+#####     *Trypsin 0,25% (Sigma T4799) with PBS*
 
 1. To dry sample 25 mg trypsin + 10 ml PBS + 18 mg glucose (Glucose SIGMA G8270). Stir on a magnetic stirrer until complete dissolution (long! Up to 1 hour).
 
