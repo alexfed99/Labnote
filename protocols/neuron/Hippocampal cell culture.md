@@ -14,6 +14,8 @@
 
 **concentration of Horse Serum determines the ratio of the density of neurons and astrocytes in culture
 
+### Solution preparing
+
 #####     *Trypsin 0,25% (Sigma T4799) to PBS*
 
 1. To dry sample 25 mg trypsin + 10 ml PBS + 18 mg glucose (Glucose SIGMA G8270). Stir on a magnetic stirrer until complete dissolution (long! Up to 1 hour).
@@ -27,6 +29,8 @@
    ##### Laminin, Mouse, Natural (Invitrogen(Gibco)23017-015), stock (1 mg/ml in H2O)
 
    Add water to a branded jar with 1 mg dry laminin (1 ml sterile H2O). Aliquot 25 μl and store frozen (-4 *)
+
+   
 
    ### The day before passage
 
@@ -68,19 +72,21 @@
 
    **6) After 10 minutes:**
 
-   1. **+1 ml of cold culture medium (MEM +) * into a 5 ml tube.**
+   - **+1 ml of cold culture medium (MEM +) * into a 5 ml tube.**
 
-   2. **Carefully take out the suspension of tissue pieces (0.5-1 ml with a dispenser) with the same spout. Place in MEM + (from point 1) **
+   - **Carefully take out the suspension of tissue pieces (0.5-1 ml with a dispenser) with the same spout. Place in MEM + (from point 1) **
 
-   3. **Disperse the tissue (using a dispenser with a 1 ml spout) to a more or less homogeneous suspension (20 times)**
+   - **Disperse the tissue (using a dispenser with a 1 ml spout) to a more or less homogeneous suspension (20 times)**
 
-   4.  **Add cold MEM + for 12 wells, 200 μl each (1 plate for 12 wells) + another 1400 μl (with a pipette, 2 times 700 each) **
+   - **Add cold MEM + for 12 wells, 200 μl each (1 plate for 12 wells) + another 1400 μl (with a pipette, 2 times 700 each) **
 
-   5. **Add 200 μl to each well in the center of the glass. **
+   - **Add 200 μl to each well in the center of the glass. **
 
-   6. ##### Hold the plate for 1 hour in an incubator. Add in each well - warm (kept in an incubator) culture medium MEM + to a final volume of 1 ml
+   - ##### Hold the plate for 1 hour in an incubator. Add in each well - warm (kept in an incubator) culture medium MEM + to a final volume of 1 ml
 
    *Cold MEM deactivates Trypsin
+
+   
 
    ### After passage, every 5-7 days
 
